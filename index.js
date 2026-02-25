@@ -67,8 +67,8 @@ client.on('interactionCreate', async (interaction) => {
       await interaction.channel.send({
         content:
           '**Verifizierung**\n' +
-          'Klicke auf **Verifizieren** und autorisiere Discord.\n' +
-          'Wenn du zustimmst, kann die App deine **E-Mail** lesen.',
+          'Klicke auf **Verifizieren** um auf den server zu spielen.\n' +
+          'Wilkommen.',
         components: [row],
       });
 
