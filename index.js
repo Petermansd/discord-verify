@@ -68,7 +68,7 @@ client.on('interactionCreate', async (interaction) => {
         content:
           '**Verifizierung**\n' +
           'Klicke auf **Verifizieren** und autorisiere Discord.\n' +
-          'Wenn du zustimmst, kann die App deine **E-Mail** lesen.',
+          'ICE CRIMELIFE.',
         components: [row],
       });
 
